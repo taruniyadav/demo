@@ -1,0 +1,6 @@
+#java
+class hi{
+public static void main(strings ar[]){
+System.out.println("hello ")
+}
+}
